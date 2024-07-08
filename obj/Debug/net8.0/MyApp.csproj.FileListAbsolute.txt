@@ -1,0 +1,14 @@
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/bin/Debug/net8.0/MyApp
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/bin/Debug/net8.0/MyApp.dll
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/bin/Debug/net8.0/MyApp.pdb
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/MyApp.dll
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/MyApp.pdb
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/Users/uchenna/Desktop/Workspace/C#INTRO/MyApp/obj/Debug/net8.0/ref/MyApp.dll
